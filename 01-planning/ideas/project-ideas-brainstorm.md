@@ -31,6 +31,15 @@ Key Technologies: Vertex AI Gemini, Veo (video), Imagen (image), ADK (multi-agen
 - **Value**: Educational and entertaining personalized content
 - **Innovation**: Adaptive storytelling based on child engagement
 
+### 13. **Product Commercial Generator** ⭐ NEW CONSIDERATION
+**Concept**: AI agents that create professional commercials from product photos
+- **Agent 1**: Product Analyzer (extracts features, benefits, target audience using Gemini)
+- **Agent 2**: Creative Director (generates lifestyle scenes, backgrounds with Imagen)
+- **Agent 3**: Video Producer (creates 30-60s commercial with Veo, music, transitions)
+- **Value**: Democratizes professional marketing for small businesses
+- **Innovation**: One-click commercial production from single product image
+- **Demo Flow**: Upload product → AI analysis → Enhanced visuals → Final commercial
+
 ---
 
 ## 🏢 Business & Productivity Ideas
