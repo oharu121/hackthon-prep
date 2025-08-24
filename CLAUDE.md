@@ -66,3 +66,8 @@
   - Code examples or configuration snippets
   - Any relevant context or gotchas discovered
 - **Reference existing examples** in the `examples/` folder when encountering similar problems.
+
+### 🪟 Windows Development Notes
+- **GitHub CLI on Windows**: Use `gh` command directly in PowerShell or Command Prompt, not through bash/WSL
+- **Path Issues**: If `gh` command not found, restart terminal after installation or add GitHub CLI to PATH
+- **Alternative PR Creation**: If GitHub CLI unavailable, create PRs manually through GitHub web interface
